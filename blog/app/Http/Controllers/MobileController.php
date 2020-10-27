@@ -63,7 +63,7 @@ class MobileController extends Controller
     {
         flight::where(id , $id)->update();
 
-    }
+    }//aloloo
 
     /**
      * Update the specified resource in storage.

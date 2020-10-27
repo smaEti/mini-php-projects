@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cacaa4bd-483f-4442-902d-c381679f0830" name="Default Changelist" comment="" />
+    <list default="true" id="cacaa4bd-483f-4442-902d-c381679f0830" name="Default Changelist" comment="first init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +21,12 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -124,6 +141,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1iNFASv57RmrxvraritWX4EHh3N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -133,7 +151,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../2/index.php" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -159,11 +177,37 @@
       <workItem from="1602504295877" duration="5439000" />
       <workItem from="1602529246058" duration="87000" />
       <workItem from="1602675873732" duration="7098000" />
+      <workItem from="1603791744660" duration="274000" />
+      <workItem from="1603792058654" duration="98000" />
     </task>
+    <task id="LOCAL-00001" summary="first init">
+      <created>1603791982870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603791982870</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first init" />
+    <option name="LAST_COMMIT_MESSAGE" value="first init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1601827849360">
@@ -174,10 +218,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="795" y="447" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602507700223" />
-    <state x="461" y="155" key="SettingsEditor" timestamp="1601741339291">
+    <state x="461" y="155" key="SettingsEditor" timestamp="1603792155173">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="155" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1601741339291" />
+    <state x="461" y="155" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603792155173" />
     <state x="681" y="254" width="540" height="524" key="StructurePopup" timestamp="1601914499808">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
